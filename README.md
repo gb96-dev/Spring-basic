@@ -11,4 +11,4 @@
 ### 📷 Postman 테스트
 
 
-(./images/postmantest.png)
+(/images/postmantest.png)
