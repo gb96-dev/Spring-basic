@@ -16,7 +16,7 @@
 "멤버 생성하기"
 <img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/d52d8bb3-2a63-404c-bcdc-e3984047cd9b" />
 "멤버 수정하기"
-<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/b64390e8-dfe0-40ca-8261-c8de51173623" />
+<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/4e3863d0-719d-4fa4-a621-753bdfd26dff" />
 "멤버 전체조회하기"
 <img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/a740003d-6175-4907-a24f-facb4df07e69" />
 "멤버 삭제하기"
