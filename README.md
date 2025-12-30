@@ -15,7 +15,7 @@
 <img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/b64390e8-dfe0-40ca-8261-c8de51173623" />
 
 <img width="720" height="420" alt="image" src="https://github.com/user-attachments/assets/a740003d-6175-4907-a24f-facb4df07e69" />
-
+"회원 삭제조회"
 <img width="720" height="420" alt="image" src="https://github.com/user-attachments/assets/4dafb15c-e9b7-4a1b-9391-b98bc052d967" />
-                                                "회원 상세조회"
+"회원 상세조회"
 
