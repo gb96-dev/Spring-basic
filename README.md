@@ -10,4 +10,4 @@
 | 회원 삭제 | DELETE | `/members/{id}` | 없음 | 회원 삭제 |
 ### 📷 Postman 테스트
 
-<img width="1280" height="764" alt="postman test" src="https://github.com/user-attachments/assets/32bcef5e-c93e-4560-a9d1-04ab27a69196" />
+<img width="700" height="420" alt="postman test" src="https://github.com/user-attachments/assets/32bcef5e-c93e-4560-a9d1-04ab27a69196" />
