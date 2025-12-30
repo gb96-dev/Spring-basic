@@ -13,8 +13,8 @@
 <img width="700" height="420" alt="postman test" src="https://github.com/user-attachments/assets/32bcef5e-c93e-4560-a9d1-04ab27a69196" />
 <img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/d52d8bb3-2a63-404c-bcdc-e3984047cd9b" />
 <img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/b64390e8-dfe0-40ca-8261-c8de51173623" />
-"
+
 <img width="720" height="420" alt="image" src="https://github.com/user-attachments/assets/a740003d-6175-4907-a24f-facb4df07e69" />
-"회원 상세조회"
-<img width="720" height="420" alt="image" src="https://github.com/user-attachments/assets/4dafb15c-e9b7-4a1b-9391-b98bc052d967" />
+
+"회원 상세조회"<img width="720" height="420" alt="image" src="https://github.com/user-attachments/assets/4dafb15c-e9b7-4a1b-9391-b98bc052d967" />
 
